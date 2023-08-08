@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Harsha</h1>
 <h3 align="center">A passionate data enthusiast with a thirst to create intelligent systems and data driven insights for better future</h3>
- <br>  
+
+ <br> 
+ 
  ![Typing SVG](https://sithcomputers.com/wp-content/uploads/2023/03/Data-Science.gif)
-  <br>
+ <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshavardhan198&label=Profile%20views&color=0e75b6&style=flat" alt="harshavardhan198" /> </p>
 
